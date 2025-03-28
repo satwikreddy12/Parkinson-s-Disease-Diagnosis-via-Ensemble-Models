@@ -23,11 +23,18 @@ Data Preprocessing: The data is scaled and processed to be compatible with the m
 Model Training: Multiple ensemble models are trained to classify vocal recordings.<br/>
 Evaluation: Accuracy metrics and feature importance are analyzed for model insights.<br/>
 
+![Screenshot (202)](https://github.com/user-attachments/assets/5e7eb8cb-0aa3-4f77-ba21-1b19a977b439)
+
 
 ### Key Code Elements<br/>
 Feature Importance Analysis using Random Forest.<br/>
 Stacking and Boosting techniques to create meta-models.<br/>
 Model Evaluation using classification metrics to determine the model's efficacy.<br/>
 
+![Screenshot (219)](https://github.com/user-attachments/assets/b2e01c79-a593-4862-a747-1983abff411a)
+
+
 ### Conclusion
 This project demonstrates the use of ensemble techniques in diagnosing Parkinson’s Disease. The developed models aim to provide a non-invasive diagnostic tool, enhancing early detection accuracy.
+![Screenshot (208)](https://github.com/user-attachments/assets/74317414-0321-49d2-bbe7-08edbea748c8)
+
